@@ -8,14 +8,14 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 ERFI lab 
-        content: Laboratory of Empirical Research for Future Interfaces
+      - title: 👋 ERFI lab
+        content: Our research is about designing future interfaces for ubiquitous technologies based on the empirical understanding of human cognition and behaviors. My team develops and studies multimodal input experiences with speech, touch and bodily input for both individual and collaborative tasks.
         align: center
         background:
           image:
             filename: coders.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       # - title: Lunch & Learn ☕️
